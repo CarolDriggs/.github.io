@@ -5,9 +5,67 @@
     <description>Jekyll Template for Blogging</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Dec 2018 15:18:23 -0700</pubDate>
-    <lastBuildDate>Mon, 31 Dec 2018 15:18:23 -0700</lastBuildDate>
+    <pubDate>Mon, 31 Dec 2018 15:33:35 -0700</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 15:33:35 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>First Post.md</title>
+        <description>{\rtf1\ansi\ansicpg1252\cocoartf1671
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ---\
+layout: post\
+title:  \'93First Post!\'94\
+author: Carol\
+categories: [ Jekyll, tutorial ]\
+image: assets/images/16.jpg\
+---\
+This is my first post!\
+\
+## WOW\
+\
++ ~~strike through~~\
++ ==highlight==\
++ \\*escaped characters\\*\
+\
+\
+## Another title\
+\
+\
+\
+```\
+.my-link \{\
+    text-decoration: underline;\
+\}\
+```\
+\
+If you want to get really fancy, you can even add syntax highlighting using Rouge.\
+\
+\
+![walking](\{\{ site.baseurl \}\}/assets/images/8.jpg)\
+\
+## Reference lists\
+\
+The quick brown jumped over the lazy.\
+\
+Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.\
+\
+## Full HTML\
+\
+Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:\
+\
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;}</description>
+        <pubDate>Mon, 31 Dec 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/12/31/First-Post.md.rtf</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/31/First-Post.md.rtf</guid>
+        
+        
+      </item>
     
       <item>
         <title>Powerful things you can do with the Markdown editor</title>
@@ -274,29 +332,6 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/jekyll/tutorial/2018/01/12/press-and-education.html</link>
         <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/press-and-education.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</guid>
         
         
         <category>Jekyll</category>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Los Chigones in Colorado Mills Mall
+title:  Zolo Grill, Boulder, CO
 author: Amanda Lucy
 categories: [ Jekyll, tutorial ]
 image: 
